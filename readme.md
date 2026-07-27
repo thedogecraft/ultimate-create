@@ -1,12 +1,13 @@
-![UC Logo](https://cdn.modrinth.com/data/cached_images/239ab721a12c44fcd96910990d5b97c44475a41e.png)
-# Ultimate Create (Updated for 1.21.1)
+![ultimate create logo](https://cdn.modrinth.com/data/cached_images/1fb81e55246d346fdd31bbedd04ceebd787ce929.png)
 
 Ultimate Create is a Minecraft modpack featuring the Create mod, its addons, and quality of life improvements. It adds new building and automation mechanics while optimizing performance with mods like Sodium.
 
 ## 🐛 Report Issues
+
 Found a bug? [Open an issue on GitHub](https://github.com/thedogecraft/ultimate-create/issues)
 
 ## ⭐ Featured Mods
+
 - **[Create](https://modrinth.com/mod/create)** - Core mod adding building and automation mechanics
 - **[Create Crafts & Additions](https://modrinth.com/mod/createaddition)** - Adds new crafting components and electrical machines
 - **[Create Aeronautics](https://modrinth.com/mod/create-aeronautics)** - Build and fly airships using Create mechanics
@@ -15,13 +16,14 @@ Found a bug? [Open an issue on GitHub](https://github.com/thedogecraft/ultimate-
 - **[e4mc](https://modrinth.com/mod/e4mc)** - LAN multiplayer over the internet
 - **[Farmer's Delight](https://modrinth.com/mod/farmers-delight)** - Cooking, farming, and food expansion
 
-
 ## 🎨 Texture Packs
+
 - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) - Animated mob textures
 - [Fresh Animations: Player Extension](https://modrinth.com/resourcepack/fa-player-extension) - Player animations for Fresh Animations
 - [Unique Dark](https://modrinth.com/resourcepack/unique-dark) - Dark mode UI theme
 
 ## ⚡ Performance Mods
+
 - [AsyncParticles](https://modrinth.com/mod/asyncparticles) - Async particle rendering
 - [BadOptimizations](https://modrinth.com/mod/badoptimizations) - Various small optimizations
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/mod/c2me-neoforge) - Multi-threaded chunk loading
@@ -37,7 +39,6 @@ Found a bug? [Open an issue on GitHub](https://github.com/thedogecraft/ultimate-
 
 <details>
 <summary>View Mods Used</summary>
-
 
 [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 
